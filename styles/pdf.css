@@ -1,19 +1,19 @@
 h1
 {
-	color: #385623;
-	background-color: #C5E0B3;
+	color: #0080A6;
+	background-color: #ADECFF;
 	padding-top: 1px;
-	border-left:  16px solid #70AD47;
+	border-left:  16px solid #00A0CF;
 	padding-left: 6px;
 	padding-bottom: 1px;
 }
 
 h2
 {
-	border-top:    2px solid #385623;
-	border-left:  10px solid #385623;
+	border-top:    2px solid #0080A6;
+	border-left:  10px solid #0080A6;
 	padding-left: 4px;
-	border-bottom:  2px solid #385623;
+	border-bottom:  2px solid #0080A6;
 }
 
 h3
